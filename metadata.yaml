@@ -1,4 +1,8 @@
 _repo: Jussi-Puranen-Jutelma-osuustoimintakauden-esiajoilta_48971
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lassila, Maiju
@@ -16,6 +20,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Algot_Untola
     - http://www.kirjasto.sci.fi/lassila.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48971#Jussi-Puranen-Jutelma-osuustoimintakauden-esiajoilta
 gutenberg_issued: '2015-05-16'
 gutenberg_type: Text
 identifiers:
